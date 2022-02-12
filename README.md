@@ -4,4 +4,4 @@
 - [Irene Perez](https://github.com/iperez95)
 - Diego Fernandez
 - Diego Llive
-- Adrian Alvarez
+- [Adrian Alvarez](https://github.com/adriialvz)
