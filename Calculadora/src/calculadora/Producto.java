@@ -1,4 +1,4 @@
-package PRODUCTO;
+package calculadora;
 
 public class Producto {
 
@@ -117,5 +117,4 @@ public class Producto {
 				System.out.println((int)(Math.pow(base,exp)));	
 			}
 		}
-	
 }

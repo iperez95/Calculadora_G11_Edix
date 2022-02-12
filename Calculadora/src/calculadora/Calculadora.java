@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author iperez
+ * @author Adrian
  */
 public class Calculadora {
 
@@ -15,7 +15,13 @@ public class Calculadora {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+    	
+    	Producto p1= new Producto();
+		p1.prod1(5, 1);
+		p1.prod2(-2, -5);
+		p1.prod3Nega(5, 9, 0);
+		p1.pot1(2, 4445);
+    	
     }
     
 }
