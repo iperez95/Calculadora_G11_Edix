@@ -26,6 +26,12 @@ public class Calculadora {
          var variableDos = resta.numerosReales(1, 2);
          var variableTres = resta.numerosReales(3, 5, 2);
          var variableCuatro = resta.sobreAcumulado(1);
+         
+        Cociente c1 = new Cociente();
+        var numerosReales = c1.numerosReales(5.0, 2.0);
+        var numerosEnteros = c1.numerosEnteros(2, 5);
+        var inversoNumeroReal = c1.inversoNumeroReal(5);
+        var raiz = c1.raiz(2);
     }
     
 }
